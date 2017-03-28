@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>迷橙时尚移动端团队技术博客</title>
-  
+  <subtitle>Stay hungry Stay foolish.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/OFashioner/"/>
