@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>迷橙时尚移动端团队官方技术博客</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/OFashioner/"/>
+  <updated>2017-03-28T02:04:37.000Z</updated>
+  <id>https://github.com/OFashioner/</id>
+  
+  <author>
+    <name>OFashion Tech</name>
+    <email>yade.han@mfasion.com.cn</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>迷橙时尚移动团队官方博客开通啦</title>
+    <link href="https://github.com/OFashioner/2017/03/28/%E8%BF%B7%E6%A9%99%E6%97%B6%E5%B0%9A%E7%A7%BB%E5%8A%A8%E5%9B%A2%E9%98%9F%E5%AE%98%E6%96%B9%E5%8D%9A%E5%AE%A2%E5%BC%80%E9%80%9A%E5%95%A6/"/>
+    <id>https://github.com/OFashioner/2017/03/28/迷橙时尚移动团队官方博客开通啦/</id>
+    <published>2017-03-28T02:03:33.000Z</published>
+    <updated>2017-03-28T02:04:37.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>迷橙时尚移动端团队官方技术博客开通啦，欢迎访问哦。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;迷橙时尚移动端团队官方技术博客开通啦，欢迎访问哦。&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://github.com/OFashioner/2017/03/27/test/"/>
+    <id>https://github.com/OFashioner/2017/03/27/test/</id>
+    <published>2017-03-27T12:52:45.000Z</published>
+    <updated>2017-03-27T12:53:08.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>ssss</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;ssss&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://github.com/OFashioner/2017/03/27/hello-world/"/>
+    <id>https://github.com/OFashioner/2017/03/27/hello-world/</id>
+    <published>2017-03-27T12:30:36.000Z</published>
+    <updated>2017-03-27T12:30:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
