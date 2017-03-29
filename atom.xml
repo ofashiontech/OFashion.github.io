@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://github.com/OFashioner/"/>
-  <updated>2017-03-28T04:00:59.000Z</updated>
+  <updated>2017-03-28T02:04:37.000Z</updated>
   <id>https://github.com/OFashioner/</id>
   
   <author>
@@ -14,30 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>the new post</title>
-    <link href="https://github.com/OFashioner/2017/03/28/the-new-post/"/>
-    <id>https://github.com/OFashioner/2017/03/28/the-new-post/</id>
-    <published>2017-03-28T04:00:23.000Z</published>
-    <updated>2017-03-28T04:00:59.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>这是一个新的文章</p>
-<p>这是一个新的文章<br>这是一个新的文章</p>
-<p>这是一个新的文章<br>这是一个新的文章<br>这是一个新的文章<br>这是一个新的文章<br>这是一个新的文章</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;这是一个新的文章&lt;/p&gt;
-&lt;p&gt;这是一个新的文章&lt;br&gt;这是一个新的文章&lt;/p&gt;
-&lt;p&gt;这是一个新的文章&lt;br&gt;这是一个新的文章&lt;br&gt;这是一个新的文章&lt;br&gt;这是一个新的文章&lt;br&gt;这是一个新的文章&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>迷橙时尚移动团队官方博客开通啦</title>
@@ -52,26 +28,6 @@
     <summary type="html">
     
       &lt;p&gt;迷橙时尚移动端团队官方技术博客开通啦，欢迎访问哦。&lt;/p&gt;
-
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://github.com/OFashioner/2017/03/27/test/"/>
-    <id>https://github.com/OFashioner/2017/03/27/test/</id>
-    <published>2017-03-27T12:52:45.000Z</published>
-    <updated>2017-03-27T12:53:08.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>ssss</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;ssss&lt;/p&gt;
 
     
     </summary>
